@@ -25,6 +25,7 @@
 		    type: Number,
         default: 300
       },
+      //moveRatio是滑动的比例，一般滑动1/3就可以滚动到下一页。默认0.25
       moveRatio: {
         type: Number,
         default: 0.25
